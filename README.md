@@ -68,12 +68,18 @@ Additional target machines can be added to the same virtual network in future pr
 - 🔮 Future VM Range	    - 10.0.0.3–10.0.0.99
 
 # Lab Setup Procedures
-# Step 1. Install 7-Zip
+# Step 1. Download and Install 7-Zip
+<img width="1206" height="623" alt="DOWNLOADING 7-ZIP" src="https://github.com/user-attachments/assets/568c2c52-8e73-4643-8c86-750e2bae92b3" />
+
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a .7z archive.
 
 Tool: 7-Zip
 
-# Step 2. Install VirtualBox
+# Step 2. Download and Install VirtualBox
+<img width="1523" height="708" alt="DOWNLOADING VIRTUAL BOX" src="https://github.com/user-attachments/assets/d1709c37-ce9d-435e-8cf7-15a7048af4db" />
+
+<img width="528" height="399" alt="INSTALLING VIRTUAL BOX" src="https://github.com/user-attachments/assets/b6ecd55a-6e3b-4417-b2a9-f54e29aeda7f" />
+
 VirtualBox was installed as the hypervisor.
 
 # Step 3. Create the NAT Network
