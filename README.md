@@ -84,6 +84,16 @@ A NAT Network was chosen to enable communication between multiple virtual machin
 This configuration will allow future attacker and target VMs to communicate effectively within the cybersecurity lab environment.
 
 # Step 4. Import Kali Linux
-The **Kali Linux virtual machine** was obtained from the official Kali Linux website and subsequently imported into **VirtualBox**.
+The Kali Linux virtual machine was obtained from the official Kali Linux website and subsequently imported into VirtualBox.
 
-The VM’s **network adapter** was then configured with the following settings:
+The VM’s network adapter was then configured with the following settings:
+Adapter 1
+Attached to: NAT Network
+Network:     NatNetwork
+Adapter Type: Intel PRO/1000 MT Desktop
+
+The VM was allocated:
+RAM: 2048 MB<img width="1598" height="841" alt="OPENING KALI ON VIRTUAL BOX" src="https://github.com/user-attachments/assets/224e403c-bdd7-4fda-97a4-3a9f88ad236d" />
+This is how the kali Linux interface looks like
+<img width="1600" height="828" alt="KALI LINUX INTERFACE" src="https://github.com/user-attachments/assets/e74a23c0-bdce-4354-999a-17bb27d743c1" />
+
