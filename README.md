@@ -138,3 +138,7 @@ If a future exercise changes or damages the VM configuration, the machine can be
 | 🔎 **Test DNS Resolution**        | `nslookup networkwalks.com`     | Domain name resolves successfully               |
 | 🧰 **Verify Nmap Installation**   | `nmap --version`                | Installed Nmap version is displayed             |
 | 🔄 **Verify Snapshot**            | Restore snapshot and run `ip a` | Baseline configuration is successfully restored |
+
+# 🐞 Problems Encountered & Solutions
+
+At the level of configuring network on virtual box, i encountered a problem whereby i couldn't find the option 'network'
