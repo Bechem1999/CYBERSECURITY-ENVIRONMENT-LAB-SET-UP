@@ -120,8 +120,21 @@ DNS: 8.8.8.8
 After completing the initial configuration, a VirtualBox snapshot was created.
 
 Example snapshot name:
-# My kali Linux after installation
+My kali Linux after installation
 
 The snapshot represents the clean baseline of the laboratory.
 
 If a future exercise changes or damages the VM configuration, the machine can be restored to this baseline.
+
+# 🔎 Lab Verification
+
+### 🔍 Verification & Testing
+
+| Test                              | Command                         | Expected Result                                 |
+| --------------------------------- | ------------------------------- | ----------------------------------------------- |
+| 🌐 **Check IP Address**           | `ip a`                          | Correct Kali Linux IP address is displayed      |
+| 📡 **Test Gateway Connectivity**  | `ping 10.0.0.1`                 | Successful replies are received                 |
+| 🌍 **Test Internet Connectivity** | `ping 8.8.8.8`                  | Successful replies are received                 |
+| 🔎 **Test DNS Resolution**        | `nslookup networkwalks.com`     | Domain name resolves successfully               |
+| 🧰 **Verify Nmap Installation**   | `nmap --version`                | Installed Nmap version is displayed             |
+| 🔄 **Verify Snapshot**            | Restore snapshot and run `ip a` | Baseline configuration is successfully restored |
