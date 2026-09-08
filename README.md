@@ -182,10 +182,10 @@ This lab is strictly for education purposes only.
 - VirtualBox: https://virtualbox.org/wiki/Downloads
 - Kali Linux: https://kali.org/get-kali
 
-  # 👤 Author
+ # 👤 Author
   Atemlefac Nkafu Bechem
   
-Cybersecurity Engineer
+  Cybersecurity Engineer
 
 LinkedIn: https://www.linkedin.com/in/atemlefac-nkafu-bechem-179987248
 
