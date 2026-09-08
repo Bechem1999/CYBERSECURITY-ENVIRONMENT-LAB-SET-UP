@@ -116,3 +116,12 @@ DNS: 8.8.8.8
 
 <img width="835" height="560" alt="SETTING UP WIRED CONNECTION" src="https://github.com/user-attachments/assets/387da871-151a-4ef5-980e-c1c979a10d8d" />
 
+# Step 6. Create a Clean VM Snapshot
+After completing the initial configuration, a VirtualBox snapshot was created.
+
+Example snapshot name:
+# My kali Linux after installation
+
+The snapshot represents the clean baseline of the laboratory.
+
+If a future exercise changes or damages the VM configuration, the machine can be restored to this baseline.
