@@ -49,4 +49,5 @@ The environment can also be extended with additional virtual machines to
 provide controlled targets for authorized security-testing exercises. 
 
 # 🏗️ Lab Architecture
-![Cybersecurity Lab Architecture](https://img.shields.io/cybersecurity-lab-architecture.png)
+<img width="1346" height="616" alt="image" src="https://github.com/user-attachments/assets/691854da-9d65-4038-817e-a11f22df2101" />
+
