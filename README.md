@@ -16,7 +16,9 @@ Building an isolated virtual lab for penetration testing and ethical hacking pra
 
 # PROJECT OVERVIEW
 This project focuses on building a virtual cybersecurity and penetration-testing laboratory using VirtualBox and Kali Linux. The lab provides a controlled and isolated environment for practicing network reconnaissance, scanning, vulnerability assessment, ethical hacking, and security testing in a safe and repeatable manner.The environment is configured using a 10.0.0.0/24 NAT Network, with Kali Linux serving as the primary security-testing machine. The lab is designed to support the addition of other virtual machines as targets for authorized penetration-testing exercises, network security assessments, and future CTF challenges.
+
 ### 🎯 Objectives
+
 The main objectives of this project are to:
 - Build a virtual cybersecurity and ethical-hacking testing environment.
 - Install and configure Kali Linux as the primary penetration-testing machine.
