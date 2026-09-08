@@ -75,3 +75,7 @@ Tool: 7-Zip
 
 # Step 2. Install VirtualBox
 VirtualBox was installed as the hypervisor.
+
+# Step 3. Create the NAT Network
+A dedicated NatNetwork was configured using the 10.0.0.0/24 IPv4 subnet, with DHCP enabled for automatic IP assignment and IPv6 disabled.
+<img width="1585" height="817" alt="CONFIGURING NAT NETWORKS" src="https://github.com/user-attachments/assets/a10245da-4313-4a46-bfa2-343d3511eea2" />
