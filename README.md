@@ -79,3 +79,11 @@ VirtualBox was installed as the hypervisor.
 # Step 3. Create the NAT Network
 A dedicated NatNetwork was configured using the 10.0.0.0/24 IPv4 subnet, with DHCP enabled for automatic IP assignment and IPv6 disabled.
 <img width="1585" height="817" alt="CONFIGURING NAT NETWORKS" src="https://github.com/user-attachments/assets/a10245da-4313-4a46-bfa2-343d3511eea2" />
+A NAT Network was chosen to enable communication between multiple virtual machines within the same isolated network while still providing outbound internet connectivity.
+
+This configuration will allow future attacker and target VMs to communicate effectively within the cybersecurity lab environment.
+
+# Step 4. Import Kali Linux
+The **Kali Linux virtual machine** was obtained from the official Kali Linux website and subsequently imported into **VirtualBox**.
+
+The VM’s **network adapter** was then configured with the following settings:
