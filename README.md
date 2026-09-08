@@ -2,8 +2,6 @@
 # MY WEEK 1 PROJECT AT NETWORK WALKS
 Building an isolated virtual lab for penetration testing and ethical hacking practice
 
-## 🛡️ Cybersecurity & Technical Skills
-
 ![Cybersecurity](https://img.shields.io/badge/Skill-Cybersecurity-red)
 ![VirtualBox](https://img.shields.io/badge/Ver-VirtualBox%20v7.2-blue)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-v2026.2-black)
@@ -13,3 +11,5 @@ Building an isolated virtual lab for penetration testing and ethical hacking pra
 ![Virtualization](https://img.shields.io/badge/Skill-Virtualization-purple)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-black)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Practical-red)
+![NetworkWalks](https://img.shields.io/badge/NetworkWalks-Networking-blue)
+![ATEMLEFAC NKAFU BECHEM](https://img.shields.io/badge/ATEMLEFAC%20NKAFU%20BECHEM-Cybersecurity-black)
