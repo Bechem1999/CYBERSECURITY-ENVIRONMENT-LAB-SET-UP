@@ -93,7 +93,20 @@ Network:     NatNetwork
 Adapter Type: Intel PRO/1000 MT Desktop
 
 The VM was allocated:
-RAM: 2048 MB<img width="1598" height="841" alt="OPENING KALI ON VIRTUAL BOX" src="https://github.com/user-attachments/assets/224e403c-bdd7-4fda-97a4-3a9f88ad236d" />
-This is how the kali Linux interface looks like
+# RAM: 2048 MB
+<img width="1598" height="841" alt="OPENING KALI ON VIRTUAL BOX" src="https://github.com/user-attachments/assets/224e403c-bdd7-4fda-97a4-3a9f88ad236d" />
+
 <img width="1600" height="828" alt="KALI LINUX INTERFACE" src="https://github.com/user-attachments/assets/e74a23c0-bdce-4354-999a-17bb27d743c1" />
+This is how the kali Linux interface looks like
+
+# Step 5. Configure the Kali Linux Network
+The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
+
+Example configuration:
+IP Address: 10.0.0.2
+Subnet Mask: 255.255.255.0
+Gateway: 10.0.0.1
+DNS: 8.8.8.8
+
+<img width="835" height="560" alt="SETTING UP WIRED CONNECTION" src="https://github.com/user-attachments/assets/387da871-151a-4ef5-980e-c1c979a10d8d" />
 
