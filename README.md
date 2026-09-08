@@ -141,4 +141,35 @@ If a future exercise changes or damages the VM configuration, the machine can be
 
 # 🐞 Problems Encountered & Solutions
 
-At the level of configuring network on virtual box, i encountered a problem whereby i couldn't find the option 'network'
+- At the level of configuring network on virtual box, I encountered a problem whereby I couldn't find the option 'network' after clicking on tools and this was because I had dialogue boxes beside the screen showing basic mode and expert mode. The problem was resolved by click the expert box and finally I saw the option network
+- Another problem encountered was interruption in my network connectivity which however slowed the downloading and installation of my virtual box and extraction and installation of kali. I had to exercise some patience and the downloading and installation process was successfull
+
+# 💡 What I Learned
+Through this project, I gained practical experience in building and configuring an isolated virtual environment for **cybersecurity training and hands-on security testing**.
+
+The key concepts I gained practical knowledge of include:
+### 1. NAT vs NAT Network
+
+A standard NAT configuration and a NAT Network are designed for different networking requirements.
+
+A **NAT Network** enables multiple virtual machines connected to the same virtual network to communicate with each other while also providing **NAT-based external connectivity**.
+
+This makes NAT Networks particularly suitable for creating **multi-VM cybersecurity laboratories**.
+
+### 2. Virtual Machine Networking
+
+I gained an understanding of how **VirtualBox network adapters** connect virtual machines to different network environments and how adapter configurations influence communication between systems.
+
+### 3. Static IP Configuration
+
+I learned how to configure and verify essential **IPv4 network settings** in Kali Linux, including IP addresses, subnet masks, default gateways, and DNS configuration.
+
+### 4. VM Snapshots
+
+I learned the importance of creating a **clean VM snapshot before conducting potentially risky or experimental activities**.
+
+A snapshot provides a reliable, known-good recovery point that can be restored when needed during future cybersecurity exercises.
+
+### 5. Documentation
+
+I learned that maintaining clear documentation of **commands, configurations, screenshots, challenges, and solutions** is an essential part of producing a professional cybersecurity project.
