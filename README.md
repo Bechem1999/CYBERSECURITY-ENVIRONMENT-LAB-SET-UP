@@ -173,3 +173,21 @@ A snapshot provides a reliable, known-good recovery point that can be restored w
 ### 5. Documentation
 
 I learned that maintaining clear documentation of **commands, configurations, screenshots, challenges, and solutions** is an essential part of producing a professional cybersecurity project.
+
+# 🔐 Security & Ethical Use
+This lab is strictly for education purposes only.
+
+# 🔗 Tools & Resources
+- 7-Zip: https://7-zip.org/download.html
+- VirtualBox: https://virtualbox.org/wiki/Downloads
+- Kali Linux: https://kali.org/get-kali
+
+  # 👤 Author
+  Atemlefac Nkafu Bechem
+Cybersecurity Engineer
+
+LinkedIn: https://www.linkedin.com/in/atemlefac-nkafu-bechem-179987248
+
+# 📌 Project Information
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
+
