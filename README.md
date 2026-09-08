@@ -47,3 +47,6 @@ It can be used for:
 
 The environment can also be extended with additional virtual machines to 
 provide controlled targets for authorized security-testing exercises. 
+
+# 🏗️ Lab Architecture
+https://chatgpt.com/s/m_6a9f7cc2c1f881918b082d4356136521
