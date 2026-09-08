@@ -54,7 +54,7 @@ Additional target machines can be added to the same virtual network in future pr
 
 # ⚙️ Lab Configuration
 🧩 Component             	⚙️ Configuration
-- 🖥️ Host                - OS	Windows 10
+- 🖥️ Host OS            - Windows 10
 - 🧠 Host RAM	           - 8 GB
 - ⚡ Processor          	- Intel Core i7
 - 🧰 Hypervisor    	    - VirtualBox 7.2
@@ -66,3 +66,12 @@ Additional target machines can be added to the same virtual network in future pr
 - 🚪 Default Gateway    	- 10.0.0.1
 - 🌍 DNS Server          - 	8.8.8.8
 - 🔮 Future VM Range	    - 10.0.0.3–10.0.0.99
+
+# Lab Setup Procedures
+# Step 1. Install 7-Zip
+7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a .7z archive.
+
+Tool: 7-Zip
+
+# Step 2. Install VirtualBox
+VirtualBox was installed as the hypervisor.
