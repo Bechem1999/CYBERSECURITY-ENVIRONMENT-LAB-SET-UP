@@ -29,4 +29,21 @@ The main objectives of this project are to:
 - Prepare the environment for additional Windows/Android target machines.
 - Establish a practical lab for penetration testing, cybersecurity exercises, and CTF challenges.
 
-  
+ ### 🎯 Purpose of the Lab
+
+The lab provides an **isolated and controlled environment for cybersecurity 
+learning, ethical-hacking practice, and authorized security testing**.
+
+It can be used for:
+
+- Network reconnaissance
+- Network and port scanning
+- Vulnerability assessment
+- Network security testing
+- Penetration-testing practice
+- Security-tool experimentation
+- Multi-VM security testing
+- CTF and practical cybersecurity challenges
+
+The environment can also be extended with additional virtual machines to 
+provide controlled targets for authorized security-testing exercises. 
