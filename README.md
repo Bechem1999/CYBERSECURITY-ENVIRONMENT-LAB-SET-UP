@@ -82,8 +82,6 @@ Tool: 7-Zip
 
 https://virtualbox.org/wiki/Downloads
 
-import kali- https://kali.org/get-kali
-
 <img width="1523" height="708" alt="DOWNLOADING VIRTUAL BOX" src="https://github.com/user-attachments/assets/d1709c37-ce9d-435e-8cf7-15a7048af4db" />
 
 <img width="528" height="399" alt="INSTALLING VIRTUAL BOX" src="https://github.com/user-attachments/assets/b6ecd55a-6e3b-4417-b2a9-f54e29aeda7f" />
@@ -99,6 +97,8 @@ This configuration will allow future attacker and target VMs to communicate effe
 
 # Step 4. Import Kali Linux
 The Kali Linux virtual machine was obtained from the official Kali Linux website and subsequently imported into VirtualBox.
+
+import kali- https://kali.org/get-kali
 
 The VM’s network adapter was then configured with the following settings:
 Adapter 1
